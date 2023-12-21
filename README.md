@@ -1,10 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00779A&height=120&section=header&text=&fontSize=90" />
 
-#### Olá! Eu sou o Carlos Henrique 👋 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00779A&random=false&width=435&lines=Hi+there!!+I'm+Carlos+Henrique!+👋+)](https://git.io/typing-svg)
 <br/>
-
-
-
  
 ## Linguagens que estudo atualmente 
 
@@ -20,7 +17,7 @@
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriquencorrea&show_icons=true&theme=shadow_blue"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquencorrea&layout=compact&theme=shadow_blue" />
-  </div>
+ </div>
 
   
 
