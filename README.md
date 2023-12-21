@@ -2,6 +2,7 @@
 
 ##### Olá! Eu sou o Carlos Henrique 👋 
 <br/>
+![Snake animation](https://github.com/henriquencorrea/henriquencorrea/blob/output/github-contribution-grid-snake.svg)
  
 ## Linguagens que estudo atualmente 
 
