@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00779A&height=120&section=header&text=&fontSize=90" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00779A&random=false&width=435&lines=Hi+there!!+I'm+Carlos+Henrique!+👋+)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hi+there!!+I'm+Carlos+Henrique!+👋)](https://git.io/typing-svg)
 <br/>
  
 ## Linguagens que estudo atualmente 
