@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00779A&height=120&section=header&text=&fontSize=90" />
 
-##### Olá! Eu sou o Carlos Henrique 👋 
+#### Olá! Eu sou o Carlos Henrique 👋 
 <br/>
 
 
