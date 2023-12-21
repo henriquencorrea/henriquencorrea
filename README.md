@@ -3,6 +3,8 @@
 ##### Olá! Eu sou o Carlos Henrique 👋 
 <br/>
 
+![snake gif](https://github.com/henriquencorrea/henriquencorrea/blob/output/github-contribution-grid-snake.gif)
+
  
 ## Linguagens que estudo atualmente 
 
