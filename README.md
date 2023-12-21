@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hi+there!!+I'm+Carlos+Henrique!+👋)](https://git.io/typing-svg)
 <br/>
 
-
+![snake animation](https://github.com/<henriquencorrea>/<henriquencorrea>/blob/output/github-contribution-grid-snake2.svg)
  
 ## Languages I'm currently studying
 
